@@ -1,16 +1,33 @@
-## Hi there 👋
+### 👋 Hello! I'm Bichitrananda Dash
 
-<!--
-**bichitradash/bichitradash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Passionate Angular Developer with 1.5+ years of experience building scalable and responsive web applications.
 
-Here are some ideas to get you started:
+🚀 Currently working at **Smaket Solutions Pvt. Ltd.**, contributing to enterprise billing and inventory systems using Angular 13+, RxJS, and REST APIs.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌐 Looking for new opportunities in **Bhubaneswar** or **remote** Angular roles.
+
+---
+
+### 🛠️ Tech Stack
+- **Frontend:** Angular 13+, TypeScript, RxJS, JavaScript, HTML, SCSS
+- **UI Frameworks:** Angular Material, Bootstrap
+- **Version Control:** Git, Bitbucket, GitHub
+- **Others:** Agile Workflow, REST API integration
+
+---
+
+### 📌 Featured Projects
+- 🧾 [Smaket Billing System](https://smaket.ai) – Enterprise-grade stock and billing system  
+- 🧪 (Coming soon) Personal Angular projects showcasing component-driven UI and reactive forms
+
+---
+
+### 📈 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=bichitradash&show_icons=true&theme=radical)
+
+---
+
+### 📫 Reach Me At
+- 📧 Email: dashbichitrananda01@gmail.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/your-link-here) *(Update your actual link)*  
+- 🧑‍💻 [GitHub](https://github.com/bichitradash)
