@@ -29,5 +29,5 @@
 
 ### 📫 Reach Me At
 - 📧 Email: dashbichitrananda01@gmail.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-link-here) *(Update your actual link)*  
+- 💼 [LinkedIn](https://www.linkedin.com/in/bichitradash/)
 - 🧑‍💻 [GitHub](https://github.com/bichitradash)
