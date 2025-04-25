@@ -1,6 +1,6 @@
 ### 👋 Hello! I'm Bichitrananda Dash
 
-💻 Passionate Angular Developer with 1.5+ years of experience building scalable and responsive web applications.
+💻 Passionate Angular Developer with 2+ years of experience building scalable and responsive web applications.
 
 🚀 Currently working at **Smaket Solutions Pvt. Ltd.**, contributing to enterprise billing and inventory systems using Angular 13+, RxJS, and REST APIs.
 
